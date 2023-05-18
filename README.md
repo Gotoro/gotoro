@@ -5,3 +5,6 @@
     </a>  
   </p>
 </h2>
+
+![GIF](https://github.com/Gotoro/gotoro.github.io/raw/main/duck.gif) \
+https://gotoro.github.io
